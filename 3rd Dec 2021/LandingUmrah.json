@@ -1,0 +1,57 @@
+[{
+        "imageurl": "https://res.cloudinary.com/dlq2s9zle/image/upload/v1636634055/bundle_landing/Bundle_8_9_fcskci.jpg",
+        "tag": "المفرد",
+        "heading": "رحلة عمرة ٣ أيام - الرياض",
+        "ticketType": "مجموعات/أفراد",
+        "ticketTypeIcon": "https://res.cloudinary.com/dlq2s9zle/image/upload/v1638359316/bundleIcons/5736343_appointment_business_calendar_date_event_icon_rgvqk0.svg",
+        "duration": "المدة: ٣ أيام (الخميس - السبت)",
+        "date": "December 2nd, 2021",
+        "durationIcon": "https://res.cloudinary.com/dm0g5sofd/image/upload/v1630493854/pocBundle/clock_tcrdlt.svg",
+        "location": "الرياض - حي المربع - طريق الملك فهد",
+        "locationIcon": "https://res.cloudinary.com/dm0g5sofd/image/upload/v1630493854/pocBundle/map-pin_si1pmv.svg",
+        "price": "٢٨٠ ريال للشخص",
+        "href": "https://bit.ly/3xgyQu2"
+    },
+    {
+        "imageurl": "https://res.cloudinary.com/dlq2s9zle/image/upload/v1636634055/bundle_landing/Bundle_8_9_fcskci.jpg",
+        "tag": "الثنائي",
+        "heading": "رحلة عمرة ٣ أيام - الرياض",
+        "ticketType": "مجموعات/أفراد",
+        "ticketTypeIcon": "https://res.cloudinary.com/dlq2s9zle/image/upload/v1638359316/bundleIcons/5736343_appointment_business_calendar_date_event_icon_rgvqk0.svg",
+        "duration": "المدة: ٣ أيام (الخميس - السبت)",
+        "date": "December 2nd, 2021",
+        "durationIcon": "https://res.cloudinary.com/dm0g5sofd/image/upload/v1630493854/pocBundle/clock_tcrdlt.svg",
+        "location": "الرياض - حي المربع - طريق الملك فهد",
+        "locationIcon": "https://res.cloudinary.com/dm0g5sofd/image/upload/v1630493854/pocBundle/map-pin_si1pmv.svg",
+        "price": "٢٠٠ ريال للشخص",
+        "href": "https://bit.ly/3nIpZOr"
+    },
+    {
+        "imageurl": "https://res.cloudinary.com/dlq2s9zle/image/upload/v1636634055/bundle_landing/Bundle_8_9_fcskci.jpg",
+        "tag": "الثلاثي",
+        "heading": "رحلة عمرة ٣ أيام - الرياض",
+        "ticketType": "مجموعات/أفراد",
+        "ticketTypeIcon": "https://res.cloudinary.com/dlq2s9zle/image/upload/v1638359316/bundleIcons/5736343_appointment_business_calendar_date_event_icon_rgvqk0.svg",
+        "duration": "المدة: ٣ أيام (الخميس - السبت)",
+        "date": "December 2nd, 2021",
+        "durationIcon": "https://res.cloudinary.com/dm0g5sofd/image/upload/v1630493854/pocBundle/clock_tcrdlt.svg",
+        "location": "الرياض - حي المربع - طريق الملك فهد",
+        "locationIcon": "https://res.cloudinary.com/dm0g5sofd/image/upload/v1630493854/pocBundle/map-pin_si1pmv.svg",
+        "price": "١٧٠ ريال للشخص",
+        "href": "https://bit.ly/3rivwhd"
+    },
+    {
+        "imageurl": "https://res.cloudinary.com/dlq2s9zle/image/upload/v1636634055/bundle_landing/Bundle_8_9_fcskci.jpg",
+        "tag": "الرباعي",
+        "heading": "رحلة عمرة ٣ أيام - الرياض",
+        "ticketType": "مجموعات/أفراد",
+        "ticketTypeIcon": "https://res.cloudinary.com/dlq2s9zle/image/upload/v1638359316/bundleIcons/5736343_appointment_business_calendar_date_event_icon_rgvqk0.svg",
+        "duration": "المدة: ٣ أيام (الخميس - السبت)",
+        "date": "December 2nd, 2021",
+        "durationIcon": "https://res.cloudinary.com/dm0g5sofd/image/upload/v1630493854/pocBundle/clock_tcrdlt.svg",
+        "location": "الرياض - حي المربع - طريق الملك فهد",
+        "locationIcon": "https://res.cloudinary.com/dm0g5sofd/image/upload/v1630493854/pocBundle/map-pin_si1pmv.svg",
+        "price": "١٥٠ ريال للشخص",
+        "href": "https://bit.ly/3cGFbp3"
+    }
+]
